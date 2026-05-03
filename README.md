@@ -4,3 +4,6 @@
     이용약관 동의 y 엔터
     python --version 3.11.x나오면 성공!
     py -m pip install pygame
+
+# 아싸~~
+    집에서 열심히 코딩을 했어요!
