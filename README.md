@@ -16,3 +16,13 @@
 
 # 내가 지금 작업하는 폴더가 최신이 아니라면
     git pull origin master
+
+
+# 과제1. 함수 설명(주석) 달기
+## runGame()
+### 게임의 메인 루프를 담당하는 함수
+    def runGame():
+    # setup variables for the start of the game
+    board = getBlankBoard()
+    lastMoveDownTime = time.time()
+    ```
