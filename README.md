@@ -1,4 +1,4 @@
-#초기 파이썬 설치 방법
+# 초기 파이썬 설치 방법
     cmd 관리자 권한으로 실행
     winget pintall python.python.3.11
     이용약관 동의 y 엔터
